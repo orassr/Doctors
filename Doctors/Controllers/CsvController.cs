@@ -82,5 +82,3 @@ public class CsvController : ControllerBase
         }
     }
 }
-
-// Assuming ResidentRecord and ResidentRecordMap are defined as before
