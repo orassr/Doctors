@@ -18,3 +18,12 @@ Technologies Used:
     CsvHelper: For efficient parsing and processing of CSV files.
     ClosedXML: To create and manipulate Excel files, allowing for complex formatting and data structuring.
 
+
+
+Technologies Used:
+
+    ASP.NET Core: For creating a robust and scalable web API.
+    C#: As the primary programming language for backend development.
+    CsvHelper: For efficient parsing and processing of CSV files.
+    ClosedXML: To create and manipulate Excel files, allowing for complex formatting and data structuring.
+
